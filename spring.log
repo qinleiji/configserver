@@ -1,0 +1,24 @@
+'2022-08-17 09:16:44.358 >>> [main] >>> INFO  >>> com.qinlei.thread.ThreadApplication >>> Starting ThreadApplication on jcbsoft with PID 3864 (I:\spring-boot学习\one\thread\target\classes started by lei in I:\spring-boot学习\one)
+''2022-08-17 09:16:44.362 >>> [main] >>> INFO  >>> com.qinlei.thread.ThreadApplication >>> No active profile set, falling back to default profiles: default
+''2022-08-17 09:16:45.598 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat initialized with port(s): 9001 (http)
+''2022-08-17 09:16:45.610 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardService >>> Starting service [Tomcat]
+''2022-08-17 09:16:45.610 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardEngine >>> Starting Servlet engine: [Apache Tomcat/9.0.38]
+''2022-08-17 09:16:45.744 >>> [main] >>> INFO  >>> o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] >>> Initializing Spring embedded WebApplicationContext
+''2022-08-17 09:16:45.745 >>> [main] >>> INFO  >>> o.s.b.w.s.c.ServletWebServerApplicationContext >>> Root WebApplicationContext: initialization completed in 1286 ms
+''2022-08-17 09:16:45.971 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+''2022-08-17 09:16:46.153 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat started on port(s): 9001 (http) with context path ''
+''2022-08-17 09:16:46.165 >>> [main] >>> INFO  >>> com.qinlei.thread.ThreadApplication >>> Started ThreadApplication in 3.1 seconds (JVM running for 4.306)
+''2022-08-17 09:17:42.785 >>> [SpringContextShutdownHook] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Shutting down ExecutorService 'applicationTaskExecutor'
+''2022-08-17 09:17:50.366 >>> [main] >>> INFO  >>> com.qinlei.thread.ThreadApplication >>> Starting ThreadApplication on jcbsoft with PID 10460 (I:\spring-boot学习\one\thread\target\classes started by lei in I:\spring-boot学习\one)
+''2022-08-17 09:17:50.368 >>> [main] >>> INFO  >>> com.qinlei.thread.ThreadApplication >>> No active profile set, falling back to default profiles: default
+''2022-08-17 09:17:52.035 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat initialized with port(s): 9001 (http)
+''2022-08-17 09:17:52.066 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardService >>> Starting service [Tomcat]
+''2022-08-17 09:17:52.066 >>> [main] >>> INFO  >>> org.apache.catalina.core.StandardEngine >>> Starting Servlet engine: [Apache Tomcat/9.0.38]
+''2022-08-17 09:17:52.262 >>> [main] >>> INFO  >>> o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] >>> Initializing Spring embedded WebApplicationContext
+''2022-08-17 09:17:52.262 >>> [main] >>> INFO  >>> o.s.b.w.s.c.ServletWebServerApplicationContext >>> Root WebApplicationContext: initialization completed in 1825 ms
+''2022-08-17 09:17:52.475 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+''2022-08-17 09:17:52.653 >>> [main] >>> INFO  >>> o.s.boot.web.embedded.tomcat.TomcatWebServer >>> Tomcat started on port(s): 9001 (http) with context path ''
+''2022-08-17 09:17:52.663 >>> [main] >>> INFO  >>> com.qinlei.thread.ThreadApplication >>> Started ThreadApplication in 2.828 seconds (JVM running for 3.972)
+''2022-08-17 09:17:52.666 >>> [main] >>> INFO  >>> com.qinlei.thread.ThreadApplication >>> 停止了
+''2022-08-17 13:21:10.631 >>> [SpringContextShutdownHook] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Shutting down ExecutorService 'applicationTaskExecutor'
+'
